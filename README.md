@@ -1,3 +1,7 @@
+# This is a solution to freeCodeCamp random-quote-machine project
+
+![tests passed](/src/assets/random-quote-screen.png "tests passed")
+
 # !!!!!!!!!!! IMPORTANT !!!!!!!!!
 
 NEED TO INSTALL REACT 17 FOR FREE CODE CAMP CERT
